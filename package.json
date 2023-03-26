@@ -1,0 +1,24 @@
+{
+  "name": "assignment2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayush-kr-shanu/CI-CD_NXM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ayush-kr-shanu/CI-CD_NXM/issues"
+  },
+  "homepage": "https://github.com/Ayush-kr-shanu/CI-CD_NXM#readme",
+  "dependencies": {
+    "eslint": "^8.36.0",
+    "shortid": "^2.2.16"
+  }
+}
